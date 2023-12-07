@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
 """
 this is local main branch 
-hi nihao, azhe,jjl
+hi nihao,
 modified online
 
 """
