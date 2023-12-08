@@ -20,3 +20,7 @@ Resolving conflicts between feature and main and committing changes  feature
 
 something from develop branch
 """
+
+"""
+something from feature branch
+"""
