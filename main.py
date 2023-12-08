@@ -16,9 +16,7 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 """
-hi nihao, 1111111
-test
-modified from local feature branch
+Resolving conflicts between feature and main and committing changes  feature
 
 something from develop branch
 """
