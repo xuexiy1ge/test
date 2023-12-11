@@ -16,9 +16,13 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 """
-hi nihao,
+Resolving conflicts between feature and main and committing changes  feature
 test
 push to feature2023-12-11
 
 something from develop branch
+"""
+
+"""
+something from feature branch
 """
