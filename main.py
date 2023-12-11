@@ -17,6 +17,12 @@ if __name__ == '__main__':
 
 """
 Resolving conflicts between feature and main and committing changes  feature
+test
+push to feature2023-12-11
 
 something from develop branch
+"""
+
+"""
+something from feature branch
 """
